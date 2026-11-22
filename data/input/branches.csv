@@ -1,0 +1,151 @@
+branch_id,branch_name,city,state,manager_name,ifsc_code,status
+B121,Kolkata Central Branch,Kolkata,West Bengal,Kavita Menon,SBIN0100021,Inactive
+B231,Bengaluru Main Road Branch,Bengaluru,Karnataka,Rekha Nair,UTIB0100131,Active
+B195,Noida Central Branch,Noida,Uttar Pradesh,Meena Iyer,ICIC0100095,Inactive
+B189,Pune Market Branch,Pune,Maharashtra,Deepak Malhotra,UTIB0100089,Inactive
+B915,Bengaluru Civil Lines Branch,,Karnataka,Deepak Malhotra,HDFC0100515,Inactive
+B116,Gurugram Market Branch,Gurugram,Haryana,Kavita Menon,SBIN0100016,Inactive
+,Hyderabad Main Road Branch,Hyderabad,Telangana,Sunita Bose,PUNB0100500,Inactive
+B216,Chennai Central Branch,Chennai,Tamil Nadu,Alka Saxena,SBIN0100116,Active
+B143,Gurugram Sector Branch,Gurugram,Haryana,Rajesh Khanna,SBIN0100043,Inactive
+B191,Dehradun Sector Branch,Dehradun,Uttarakhand,Rajesh Khanna,PUNB0100091,Inactive
+B118,Jaipur Civil Lines Branch,Jaipur,Rajasthan,Meena Iyer,UTIB0100018,Active
+B142,Dehradun Main Road Branch,Dehradun,Uttarakhand,Deepak Malhotra,SBIN0100042,Inactive
+B167,Bengaluru Sector Branch,Bengaluru,Karnataka,Deepak Malhotra,PUNB0100067,Inactive
+B908,,Hyderabad,Telangana,Kavita Menon,ICIC0100508,Inactive
+B188,Mumbai Station Road Branch,Mumbai,Maharashtra,Rajesh Khanna,SBIN0100088,Active
+B180,Pune Market Branch,Pune,Maharashtra,Deepak Malhotra,HDFC0100080,Active
+B214,Delhi Sector Branch,Delhi,Delhi,Rekha Nair,SBIN0100114,Active
+B146,Noida Civil Lines Branch,Noida,Uttar Pradesh,Deepak Malhotra,SBIN0100046,Active
+B124,Hyderabad Main Road Branch,Hyderabad,Telangana,Anil Kapoor,UTIB0100024,Inactive
+B197,Dehradun Sector Branch,Dehradun,Uttarakhand,Deepak Malhotra,SBIN0100097,Active
+B219,Noida Station Road Branch,Noida,Uttar Pradesh,Meena Iyer,UTIB0100119,Active
+B135,Jaipur Main Road Branch,Jaipur,Rajasthan,Sunita Bose,ICIC0100035,Active
+B909,Delhi Market Branch,,Delhi,Meena Iyer,ICIC0100509,Active
+B203,Delhi Main Road Branch,Delhi,Delhi,Anil Kapoor,SBIN0100103,Inactive
+B194,Bengaluru Market Branch,Bengaluru,Karnataka,Manoj Tiwari,ICIC0100094,Inactive
+B163,Chennai Main Road Branch,Chennai,Tamil Nadu,Rajesh Khanna,PUNB0100063,Active
+B917,Hyderabad Civil Lines Branch,Hyderabad,Telangana,,UTIB0100517,Inactive
+B185,Delhi Central Branch,Delhi,Delhi,Sunita Bose,UTIB0100085,Inactive
+B123,Mumbai Market Branch,Mumbai,Maharashtra,Rekha Nair,SBIN0100023,Inactive
+B196,Hyderabad Central Branch,Hyderabad,Telangana,Meena Iyer,ICIC0100096,Inactive
+B204,Jaipur IT Park Branch,Jaipur,Rajasthan,Suresh Rao,HDFC0100104,Inactive
+B137,Bengaluru City Centre Branch,Bengaluru,Karnataka,Kavita Menon,PUNB0100037,Active
+B199,Noida City Centre Branch,Noida,Uttar Pradesh,Sunita Bose,SBIN0100099,Inactive
+B157,Hyderabad Sector Branch,Hyderabad,Telangana,Suresh Rao,ICIC0100057,Inactive
+B138,Delhi Civil Lines Branch,Delhi,Delhi,Kavita Menon,UTIB0100038,Inactive
+B165,Mumbai Station Road Branch,Mumbai,Maharashtra,Suresh Rao,ICIC0100065,Active
+B210,Delhi Civil Lines Branch,Delhi,Delhi,Rajesh Khanna,UTIB0100110,Active
+B186,Pune Market Branch,Pune,Maharashtra,Suresh Rao,PUNB0100086,Active
+B127,Mumbai Main Road Branch,Mumbai,Maharashtra,Anil Kapoor,ICIC0100027,Active
+B213,Kolkata Main Road Branch,Kolkata,West Bengal,Kavita Menon,PUNB0100113,Inactive
+B149,Mumbai Sector Branch,Mumbai,Maharashtra,Kavita Menon,SBIN0100049,Active
+B112,Bengaluru Civil Lines Branch,Bengaluru,Karnataka,Sunita Bose,UTIB0100012,Inactive
+B145,Mumbai Civil Lines Branch,Mumbai,Maharashtra,Sunita Bose,ICIC0100045,Active
+,Noida Market Branch,Noida,Uttar Pradesh,Anil Kapoor,PUNB0100506,Inactive
+B193,Dehradun Station Road Branch,Dehradun,Uttarakhand,Rekha Nair,UTIB0100093,Active
+B107,Noida Market Branch,Noida,Uttar Pradesh,Deepak Malhotra,PUNB0100007,Inactive
+B162,Jaipur Market Branch,Jaipur,Rajasthan,Anil Kapoor,HDFC0100062,Active
+B167,Hyderabad Station Road Branch,Hyderabad,Telangana,Deepak Malhotra,SBIN0100507,Inactive
+B166,Dehradun Central Branch,Dehradun,Uttarakhand,Meena Iyer,UTIB0100066,Inactive
+B172,Kolkata Main Road Branch,Kolkata,West Bengal,Anil Kapoor,SBIN0100072,Inactive
+B212,Noida Main Road Branch,Noida,Uttar Pradesh,Rajesh Khanna,UTIB0100112,Active
+B160,Bengaluru IT Park Branch,Bengaluru,Karnataka,Rajesh Khanna,UTIB0100060,Active
+B205,Pune Main Road Branch,Pune,Maharashtra,Alka Saxena,ICIC0100105,Active
+B120,Kolkata Civil Lines Branch,Kolkata,West Bengal,Deepak Malhotra,PUNB0100020,Inactive
+B211,Kolkata Sector Branch,Kolkata,West Bengal,Kavita Menon,HDFC0100111,Inactive
+B187,Delhi Station Road Branch,Delhi,Delhi,Suresh Rao,ICIC0100087,Active
+B114,Dehradun City Centre Branch,Dehradun,Uttarakhand,Kavita Menon,UTIB0100014,Inactive
+B170,Hyderabad IT Park Branch,Hyderabad,Telangana,Kavita Menon,HDFC0100070,Inactive
+B176,Mumbai City Centre Branch,Mumbai,Maharashtra,Meena Iyer,SBIN0100076,Inactive
+B174,Delhi Civil Lines Branch,Delhi,Delhi,Anil Kapoor,UTIB0100074,Active
+,Gurugram Main Road Branch,Gurugram,Haryana,Sunita Bose,SBIN0100512,Active
+B910,Dehradun Sector Branch,Dehradun,Uttarakhand,Kavita Menon,hdfc0001234x,Inactive
+B152,Delhi Civil Lines Branch,Delhi,Delhi,Manoj Tiwari,UTIB0100052,Active
+B200,Mumbai Station Road Branch,Mumbai,Maharashtra,Rekha Nair,HDFC0100100,Inactive
+B126,Dehradun IT Park Branch,Dehradun,Uttarakhand,Sunita Bose,SBIN0100026,Inactive
+B151,Mumbai Market Branch,Mumbai,Maharashtra,Manoj Tiwari,UTIB0100051,Inactive
+B147,Jaipur Civil Lines Branch,Jaipur,Rajasthan,Sunita Bose,SBIN0100047,Inactive
+B178,Hyderabad Station Road Branch,Hyderabad,Telangana,Rajesh Khanna,SBIN0100078,Active
+B144,Kolkata Sector Branch,Kolkata,West Bengal,Rekha Nair,ICIC0100044,Inactive
+B224,Mumbai Main Road Branch,Mumbai,Maharashtra,Alka Saxena,ICIC0100124,Active
+B179,Delhi Main Road Branch,Delhi,Delhi,Meena Iyer,ICIC0100079,Inactive
+B207,Gurugram Market Branch,Gurugram,Haryana,Suresh Rao,SBIN0100107,Inactive
+B148,Delhi Main Road Branch,Delhi,Delhi,Rekha Nair,ICIC0100048,Inactive
+B155,Kolkata Market Branch,Kolkata,West Bengal,Rajesh Khanna,SBIN0100055,Active
+B227,Mumbai Civil Lines Branch,Mumbai,Maharashtra,Manoj Tiwari,UTIB0100127,Active
+B225,Gurugram Station Road Branch,Gurugram,Haryana,Sunita Bose,PUNB0100125,Active
+B230,Bengaluru City Centre Branch,Bengaluru,Karnataka,Suresh Rao,HDFC0100130,Inactive
+B154,Jaipur Market Branch,Jaipur,Rajasthan,Alka Saxena,UTIB0100054,Inactive
+B905,Chennai Market Branch,Chennai,Tamil Nadu,,PUNB0100505,Inactive
+B206,Kolkata IT Park Branch,Kolkata,West Bengal,Sunita Bose,PUNB0100106,Inactive
+B103,Dehradun Central Branch,Dehradun,Uttarakhand,Meena Iyer,ICIC0100003,Inactive
+B108,Gurugram Main Road Branch,Gurugram,Haryana,Alka Saxena,PUNB0100008,Inactive
+B902,,Kolkata,West Bengal,Deepak Malhotra,ICIC0100502,Inactive
+B184,Pune Sector Branch,Pune,Maharashtra,Meena Iyer,HDFC0100084,Inactive
+B153,Gurugram Market Branch,Gurugram,Haryana,Suresh Rao,ICIC0100053,Active
+B104,Hyderabad Sector Branch,Hyderabad,Telangana,Meena Iyer,HDFC0100004,Inactive
+B199,Bengaluru Sector Branch,Bengaluru,Karnataka,Suresh Rao,SBIN0100513,Inactive
+B171,Delhi IT Park Branch,Delhi,Delhi,Meena Iyer,ICIC0100071,Active
+B131,Chennai IT Park Branch,Chennai,Tamil Nadu,Manoj Tiwari,PUNB0100031,Inactive
+B208,Dehradun Central Branch,Dehradun,Uttarakhand,Alka Saxena,ICIC0100108,Active
+B161,Dehradun Central Branch,Dehradun,Uttarakhand,Kavita Menon,ICIC0100061,Active
+B132,Hyderabad Civil Lines Branch,Hyderabad,Telangana,Manoj Tiwari,HDFC0100032,Active
+B223,Chennai Civil Lines Branch,Chennai,Tamil Nadu,Deepak Malhotra,HDFC0100123,Inactive
+B141,Mumbai City Centre Branch,Mumbai,Maharashtra,Anil Kapoor,PUNB0100041,Active
+B136,Delhi IT Park Branch,Delhi,Delhi,Anil Kapoor,ICIC0100036,Inactive
+B159,Pune IT Park Branch,Pune,Maharashtra,Anil Kapoor,PUNB0100059,Active
+B914,,Hyderabad,Telangana,Manoj Tiwari,PUNB0100514,Inactive
+B169,Dehradun Sector Branch,Dehradun,Uttarakhand,Kavita Menon,SBIN0100069,Active
+B102,Dehradun City Centre Branch,Dehradun,Uttarakhand,Alka Saxena,HDFC0100002,Active
+B229,Pune IT Park Branch,Pune,Maharashtra,Sunita Bose,ICIC0100129,Inactive
+B177,Noida Civil Lines Branch,Noida,Uttar Pradesh,Kavita Menon,SBIN0100077,Active
+B202,Chennai Sector Branch,Chennai,Tamil Nadu,Rekha Nair,SBIN0100102,Active
+B129,Pune Central Branch,Pune,Maharashtra,Anil Kapoor,SBIN0100029,Inactive
+B134,Delhi Central Branch,Delhi,Delhi,Meena Iyer,SBIN0100034,Active
+B150,Chennai Main Road Branch,Chennai,Tamil Nadu,Meena Iyer,SBIN0100050,Inactive
+B125,Hyderabad Station Road Branch,Hyderabad,Telangana,Anil Kapoor,PUNB0100025,Inactive
+B175,Gurugram IT Park Branch,Gurugram,Haryana,Sunita Bose,UTIB0100075,Inactive
+B217,Delhi Market Branch,Delhi,Delhi,Sunita Bose,PUNB0100117,Inactive
+B221,Chennai Civil Lines Branch,Chennai,Tamil Nadu,Meena Iyer,UTIB0100121,Active
+B110,Bengaluru Main Road Branch,Bengaluru,Karnataka,Alka Saxena,HDFC0100010,Active
+B113,Mumbai Sector Branch,Mumbai,Maharashtra,Meena Iyer,ICIC0100013,Inactive
+B115,Jaipur Main Road Branch,Jaipur,Rajasthan,Rajesh Khanna,HDFC0100015,Inactive
+B198,Chennai Market Branch,Chennai,Tamil Nadu,Deepak Malhotra,ICIC0100098,Inactive
+B190,Noida Central Branch,Noida,Uttar Pradesh,Suresh Rao,SBIN0100090,Active
+B156,Noida Main Road Branch,Noida,Uttar Pradesh,Rajesh Khanna,HDFC0100056,Active
+B182,Bengaluru Station Road Branch,Bengaluru,Karnataka,Suresh Rao,HDFC0100082,Active
+B168,Dehradun Civil Lines Branch,Dehradun,Uttarakhand,Rajesh Khanna,PUNB0100068,Active
+B228,Gurugram Civil Lines Branch,Gurugram,Haryana,Kavita Menon,HDFC0100128,Inactive
+B181,Hyderabad IT Park Branch,Hyderabad,Telangana,Anil Kapoor,SBIN0100081,Inactive
+B117,Noida City Centre Branch,Noida,Uttar Pradesh,Sunita Bose,HDFC0100017,Inactive
+B174,Pune Station Road Branch,Pune,Maharashtra,Meena Iyer,HDFC0100501,Active
+B192,Mumbai Main Road Branch,Mumbai,Maharashtra,Manoj Tiwari,UTIB0100092,Inactive
+B183,Hyderabad Station Road Branch,Hyderabad,Telangana,Suresh Rao,HDFC0100083,Active
+B105,Noida Main Road Branch,Noida,Uttar Pradesh,Rekha Nair,PUNB0100005,Active
+B232,Pune City Centre Branch,Pune,Maharashtra,Meena Iyer,SBIN0100132,Inactive
+B173,Gurugram Market Branch,Gurugram,Haryana,Kavita Menon,SBIN0100073,Active
+B130,Dehradun City Centre Branch,Dehradun,Uttarakhand,Anil Kapoor,SBIN0100030,Active
+B916,Gurugram Sector Branch,Gurugram,Haryana,Meena Iyer,HDFC1234567,Inactive
+B911,Hyderabad Sector Branch,Hyderabad,Telangana,,ICIC0100511,Active
+B111,Jaipur Civil Lines Branch,Jaipur,Rajasthan,Rajesh Khanna,ICIC0100011,Inactive
+B122,Gurugram Main Road Branch,Gurugram,Haryana,Kavita Menon,PUNB0100022,Active
+B218,Kolkata Market Branch,Kolkata,West Bengal,Suresh Rao,SBIN0100118,Inactive
+B904,Noida Sector Branch,Noida,Uttar Pradesh,Meena Iyer,hdfc0001234x,Active
+B139,Pune Market Branch,Pune,Maharashtra,Meena Iyer,HDFC0100039,Inactive
+B140,Pune Market Branch,Pune,Maharashtra,Rajesh Khanna,UTIB0100040,Active
+B158,Mumbai Sector Branch,Mumbai,Maharashtra,Alka Saxena,SBIN0100058,Inactive
+B128,Mumbai Central Branch,Mumbai,Maharashtra,Kavita Menon,ICIC0100028,Active
+B164,Bengaluru Civil Lines Branch,Bengaluru,Karnataka,Meena Iyer,PUNB0100064,Active
+B215,Kolkata Civil Lines Branch,Kolkata,West Bengal,Manoj Tiwari,UTIB0100115,Active
+B220,Kolkata Station Road Branch,Kolkata,West Bengal,Rajesh Khanna,UTIB0100120,Inactive
+B903,Dehradun Sector Branch,,Uttarakhand,Sunita Bose,SBIN0100503,Inactive
+B201,Gurugram City Centre Branch,Gurugram,Haryana,Manoj Tiwari,HDFC0100101,Active
+B119,Pune Main Road Branch,Pune,Maharashtra,Suresh Rao,UTIB0100019,Inactive
+B101,Bengaluru IT Park Branch,Bengaluru,Karnataka,Suresh Rao,ICIC0100001,Active
+B226,Jaipur Station Road Branch,Jaipur,Rajasthan,Meena Iyer,PUNB0100126,Inactive
+B222,Pune Civil Lines Branch,Pune,Maharashtra,Suresh Rao,HDFC0100122,Inactive
+B209,Delhi Central Branch,Delhi,Delhi,Anil Kapoor,HDFC0100109,Inactive
+B109,Dehradun Main Road Branch,Dehradun,Uttarakhand,Alka Saxena,ICIC0100009,Active
+B133,Mumbai Sector Branch,Mumbai,Maharashtra,Kavita Menon,HDFC0100033,Active
+B106,Jaipur IT Park Branch,Jaipur,Rajasthan,Suresh Rao,PUNB0100006,Active
