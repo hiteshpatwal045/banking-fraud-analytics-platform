@@ -60,33 +60,33 @@ def run_pipeline():
     print("Step 5. Loading Data into MySQL....")
     load_data(valid_customers, valid_accounts, valid_branches, valid_transactions, valid_loans)
 
-    # result = {
-    #   "status": "SUCCESS",
-    #   "customers_received": len(customers),
-    #   "customers_loaded": len(valid_customers),
-    #   "customers_rejected": len(rejected_customers),
-    #   "accounts_received": len(accounts),
-    #   "accounts_loaded": len(valid_accounts),
-    #   "accounts_rejected": len(rejected_accounts),
-    #   "branches_received": len(branches),
-    #   "branches_loaded": len(valid_branches),
-    #   "branches_rejected": len(rejected_branches),
-    #   "transactions_received": len(transactions),
-    #   "transactions_loaded": len(valid_transactions),
-    #   "transactions_rejected": len(rejected_transactions),
-    #   "loans_received": len(loans),
-    #   "loans_loaded": len(valid_loans),
-    #   "loans_rejected": len(rejected_loans),
-    #   "status_message": "Banking Data Pipeline completed successfully"
-    # }
+    result = {
+      "status": "SUCCESS",
+      "customers_received": len(customers),
+      "customers_loaded": len(valid_customers),
+      "customers_rejected": len(rejected_customers),
+      "accounts_received": len(accounts),
+      "accounts_loaded": len(valid_accounts),
+      "accounts_rejected": len(rejected_accounts),
+      "branches_received": len(branches),
+      "branches_loaded": len(valid_branches),
+      "branches_rejected": len(rejected_branches),
+      "transactions_received": len(transactions),
+      "transactions_loaded": len(valid_transactions),
+      "transactions_rejected": len(rejected_transactions),
+      "loans_received": len(loans),
+      "loans_loaded": len(valid_loans),
+      "loans_rejected": len(rejected_loans),
+      "status_message": "Banking Data Pipeline completed successfully"
+    }
     logging.info("Pipeline finished")
 
   except Exception as error:
     logging.error("Pipeline failed: " + str(error))
     result = {"status": "FAILED", "status_message": str(error)}
 
-  # print(json.dumps(result, indent=4))
-  # return result
+  print(json.dumps(result, indent=4))
+  return result
 
 
 if __name__ == "__main__":

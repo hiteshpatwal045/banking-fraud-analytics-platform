@@ -10,3 +10,7 @@ class BranchSchema(BaseModel):
   manager_name: str | None = None
   ifsc_code: str | None = None
   status: str | None = None
+
+  class BranchResponse(BranchBase):
+    class Config:
+        from_attributes = True
