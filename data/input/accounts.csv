@@ -1,5 +1,5 @@
 account_id,customer_id,account_type,branch_id,balance,opening_date,account_status
-A196,C1159,Savings,B152,879237.30,2026-06-02,Active
+A196,C1286,Savings,B152,879237.30,2026-06-02,Active
 A225,C1337,Savings,B165,837584.51,2022-06-26,Active
 A193,C1128,Business,B174,1862462.05,2018-05-07,Inactive
 A180,C1183,Savings,B144,795898.58,2020-08-25,Active
